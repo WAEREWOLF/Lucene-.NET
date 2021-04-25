@@ -1,0 +1,168 @@
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\WebApplicationLucene.dll.config
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\WebApplicationLucene.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\WebApplicationLucene.pdb
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Antlr3.Runtime.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.SqlServer.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\ICSharpCode.SharpZipLib.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Lucene.Net.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Core.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Cookies.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Facebook.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Google.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.OAuth.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Twitter.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Web.Infrastructure.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Newtonsoft.Json.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Owin.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Helpers.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Mvc.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Optimization.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Razor.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Deployment.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Razor.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\WebGrease.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Lucene.Net.pdb
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Lucene.Net.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Helpers.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Mvc.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Optimization.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Razor.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Deployment.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Razor.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Antlr3.Runtime.pdb
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Newtonsoft.Json.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.SqlServer.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Core.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Facebook.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Cookies.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.OAuth.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Google.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Twitter.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Helpers.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Mvc.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Optimization.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Razor.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.WebPages.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\EntityFramework.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.csprojResolveAssemblyReference.cache
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.dll
+D:\workspace Upperlink\CodeProject\Lucene\Project\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\WebApplicationLucene.dll.config
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\WebApplicationLucene.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\WebApplicationLucene.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Antlr3.Runtime.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.SqlServer.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\ICSharpCode.SharpZipLib.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Lucene.Net.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Newtonsoft.Json.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Owin.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Helpers.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Mvc.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Optimization.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Razor.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Razor.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\WebGrease.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Lucene.Net.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Lucene.Net.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Helpers.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Mvc.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Optimization.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.Razor.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\System.Web.WebPages.Razor.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Antlr3.Runtime.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Newtonsoft.Json.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\EntityFramework.SqlServer.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Helpers.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Mvc.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Optimization.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.Razor.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.WebPages.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\EntityFramework.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.csprojAssemblyReference.cache
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.csproj.CoreCompileInputs.cache
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.csproj.CopyComplete
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\obj\Debug\WebApplicationLucene.pdb
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\PdfSharp.Charting.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\PdfSharp.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\PdfSharp.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\PdfSharp.Charting.xml
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\de\PdfSharp.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\de\PdfSharp.Charting.resources.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\BouncyCastle.Crypto.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\FizzWare.NBuilder.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\itextsharp.dll
+D:\FACULTATE AUTOMATICA\ANI de studiu\ANUL 4\SEM 2\IR - Petcusin\New folder\WebApplicationLucene\WebApplicationLucene\bin\itextsharp.xml

@@ -1,0 +1,5 @@
+Asus zen phone
+resolution 1920x1080
+camera type 12mpx
+baterry 500mAh
+color black

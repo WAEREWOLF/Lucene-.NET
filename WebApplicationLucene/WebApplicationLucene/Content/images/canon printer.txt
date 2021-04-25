@@ -1,0 +1,5 @@
+canon printer
+capacity 1000 pages
+black ink laser jet
+warranty 2 years
+color white

@@ -1,0 +1,6 @@
+Huawei smartphone
+resolution 1920x1080
+color ocean blue
+battery 1200mAh
+date 2020 
+
